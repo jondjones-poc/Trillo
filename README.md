@@ -1,4 +1,4 @@
-# Introducxtion
+# Trillo - By Jon D Jones 💥
 
 A hotel inspired SASS powered website
 
